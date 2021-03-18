@@ -5,4 +5,5 @@ Implementing continuous integration / continuous on Spring Boot
 
 
 [BuildStatus] (travis)
+maj
 
