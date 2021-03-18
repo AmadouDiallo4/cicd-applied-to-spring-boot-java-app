@@ -7,5 +7,6 @@ jdk:
   - openjdk11
   
 script:
+  - ./mvnw clean install
 #add this error ...
   
